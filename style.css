@@ -235,8 +235,8 @@ a{
     display: block;
 }
 .project-number-right{
-    right: -40px;
-    top: -45px;
+    right: -30px;
+    top: -35px;
 
 }
 .project-content{
@@ -283,6 +283,10 @@ a{
 #p1{
     background-image: url(Screenshot\ 2024-06-01\ 233219.png);
 
+}
+#p2{
+    background-image: url(Screenshot\ \(227\).png);
+    background-size: cover;
 }
 h2{
     text-align: center;
@@ -404,12 +408,12 @@ li{
 
 }
 .contactus-heading{
-    font-size: 4em;
+    font-size: 5em;
     color: orangered;
     padding-top: 2rem;
 }
 .contactus-subheading{
-    font-size: 2em;
+    font-size: 3em;
     color: #343d68aa;
     text-transform: capitalize;
 }
